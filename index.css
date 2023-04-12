@@ -1,0 +1,13 @@
+body{
+    width: 100vh;
+    margin: auto;
+}
+img{
+    margin: 5px 20px;
+    padding: 5px;
+    width: 800px;
+    height: 160px;
+    background-color: white;
+    box-shadow: 5px 10px #888888;
+    /* border: 1px solid red; */
+}
